@@ -1,0 +1,58 @@
+*{
+      font-family: "Open Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+  
+  } 
+  #card .btn {
+      width: 45%; /* Set consistent button width */
+      margin: 5px 0; /* Add spacing between buttons */
+    }
+  
+  #view-work{
+      color: rgb(255, 255, 255);
+      background-color: rgb(0, 0, 0);
+      border-color: rgb(0, 0, 0);
+      font-size: 20px;
+    }
+    #view-work:hover{
+      background-color: rgb(255, 253, 253);
+      color:rgb(0, 0, 0);
+      border-color: rgb(0, 0, 0);
+      font-size: 20px;
+      font-weight: 600;
+    }
+    #view-work1{
+      color: rgb(0, 0, 0);
+      background-color: rgb(255, 255, 255);
+      border-color: rgb(0, 0, 0);
+      font-size: 20px;
+    }
+    #view-work1:hover{
+      background-color: rgb(0, 0, 0);
+      color:rgb(255, 255, 255);
+      border-color: rgb(0, 0, 0);
+      font-size: 20px;
+      font-weight: 600;
+    }
+    footer {
+      background-color: #1a1a1a;
+      color: #f4f4f4;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    .social-icons i {
+      transition: transform 0.2s ease-in-out;
+    }
+    .social-icons i:hover {
+      transform: scale(1.2);
+      color: #f4a701; /* Mi signature color */
+    }
+    
+
+     
+     
+    
